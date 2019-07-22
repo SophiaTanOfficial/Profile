@@ -14,4 +14,15 @@ body{
 div {
     color: white;
     font-size: 25px;
+    /*background-color: black;*/
+    /*border: solid;*/
+    /*width: 400px;*/
+    /*text-align: center;*/
+}
+#bio {
+    font-size: 30px 
+}
+
+.powerText {
+    font-style: italic;
 }
